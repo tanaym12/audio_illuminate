@@ -5,6 +5,8 @@
 
 The goal of this project is to showcase how simple sound and motion inputs can control LEDs in creative ways, providing a foundation for further development in aesthetic lighting systems and sports performance tracking.
 
+![Project Image](images/project.png)
+
 ---
 
 ## **Project Parts**
@@ -55,4 +57,4 @@ The two different parts of this project serve unique purposes:
 ---
 
 ## **Acknowledgments**
-This project was developed as a part of an engineering course, providing valuable experience in microprocessor programming, hardware design, and project integration.
+This project was developed as a part of an 3rd year physics lab course, providing valuable experience in microprocessor programming, hardware design, and project integration.
